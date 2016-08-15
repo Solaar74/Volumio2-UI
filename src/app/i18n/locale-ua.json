@@ -101,7 +101,7 @@
     "RANDOM": "Випадково",
     "REPEAT": "Повторення",
     "SAVE_QUEUE_AS_PLAYLIST": "Зберегти чергу як список відтворення",
-    "CONSUME_PLAYLIST": "Прослухати список відтворення",
+    "CONSUME_PLAYLIST": "Прослухане видаляти зі списку",
     "CLEAR_QUEUE": "Очистити чергу"
   },
   "NETWORKFS":{
