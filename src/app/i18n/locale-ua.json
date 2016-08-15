@@ -60,7 +60,7 @@
     "ADD_TO_RADIO_FAVOURITES":"Додати радіо до обраного",
     "REMOVE_FROM_RADIO_FAVOURITES":"Видалити радіо з обраного",
     "ADD_WEBRADIO_TITLE":"Додати назву радіо",
-    "URL_DOC":"URL може бути як URL-потік, так й M3U або PLS віддалений файл",
+    "URL_DOC":"URL може бути URL-потоку, а також M3U або PLS віддалений файл",
     "DELETE_PLAYLIST":"Видалити список відтворення",
     "GO_TO_SHARE":"Перейти до загальнодоступних тек",
     "NEXT_TRACK":"Наступний",
