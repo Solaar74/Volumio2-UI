@@ -25,7 +25,7 @@
     "INACTIVE":"Незастосовано",
     "SHOW_SETTINGS":"Показати налаштування",
     "TAB_BROWSE":"Переглянути",
-    "TAB_PLAYBACK":"Відтворюється",
+    "TAB_PLAYBACK":"Плеєр",
     "TAB_QUEUE":"Черга",
     "ARTISTS":"Виконавці",
     "ALBUMS":"Альбоми",
@@ -66,7 +66,7 @@
     "NEXT_TRACK":"Наступний",
     "PREVIOUS_TRACK":"Попередній",
     "PAUSE":"Пауза",
-    "CLEAR_AND_PLAY":"Очистити та відтворити"
+    "CLEAR_AND_PLAY":"Очистити, додати та відтворити"
   },
   "PLUGINS": {
     "BACK_TO_PLUGINS": "Назад до плагинів",
